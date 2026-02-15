@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+
+# Logs & temporary files
+logs/
+*.log
+*.log.*
+
+# Configuration – sensitive files
+config.json
+
+# Backups & temp files
+*.bak
+*.backup
+*~
+.DS_Store
+Thumbs.db
+
+# Editor & IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Pygame / display temp files
+*.png~
+*.jpg~
+
+# Raspberry Pi / misc
+*.pid
+*.pid.lock
+
+# Local Scritps / files
+display_*

@@ -1,0 +1,38 @@
+{
+  "miners_ips": [
+    "192.0.2.100",
+    "192.0.2.101",
+    "192.0.2.102",
+    "192.0.2.103"
+  ],
+  "btc_logo_path": "logos/btc.png",
+  "fps": 25,
+  "dim_alpha": 50,
+  "candle_seconds": 60,
+  "max_candles": 14,
+  "marquee_height": 24,
+  "marquee_speed": 1.0,
+  "marquee_refresh_interval": 8.0,
+  "main_symbols": ["BTCUSDT"],
+  "marquee_symbols": [
+    "ETHUSDT", "BNBUSDT", "XMRUSDT", "SOLUSDT", "LTCUSDT",
+    "XRPUSDT", "ADAUSDT", "TRXUSDT", "MEUSDT", "HBARUSDT", "ESXUSD",
+    "XECUSDT", "RUNECOIN"
+  ],
+  "price_decimals": {
+    "xecusdt": 8,
+    "esxusd": 6,
+    "runecoin": 8
+  },
+  "kraken_pairs": {
+    "xmrusdt": "XMR/USDT",
+    "esxusd": "ESX/USD"
+  },
+  "coingecko_ids": {
+    "runecoin": "runecoin"
+  },
+  "miner_active_threshold": 0.25,
+  "data_timeout": 300,
+  "hashrate_curve_thickness": 2,
+  "wifi_check_interval": 12.0
+}
