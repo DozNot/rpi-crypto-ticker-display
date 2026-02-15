@@ -223,7 +223,8 @@ rpi-crypto-ticker-display/
 │   ├── miners.py           # Local miner monitoring
 │   ├── rendering.py        # Display rendering and drawing logic
 │   └── websockets.py       # WebSocket connections for live data
-└── README.md               # Project documentation and setup guide
+├── README.md               # Project documentation and setup guide
+└── SECURITY.md             # Security Policy
 ```
 
 ## Configuration Notes
