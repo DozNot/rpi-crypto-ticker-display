@@ -8,7 +8,7 @@ for Raspberry Pi TFT/HDMI Displays
 [![Pygame](https://img.shields.io/badge/Rendered%20with-Pygame-9cf?logo=python)](https://www.pygame.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-<img src="assets/demo.gif" width="480" alt="RPi Crypto Ticker in action"/>
+<img src="assets/demo.png" width="100%" alt="RPi Crypto Ticker in action"/>
 
 </div>
 
