@@ -208,7 +208,7 @@ rpi-crypto-ticker-display/
 │   ├── btc-qr.png          # BTC QR
 │   ├── xmr-qr.png          # XMR QR
 │   └── ...                 
-├── logos/                  # Crypto logos images
+├── logos/                  # Crypto logo images
 │   ├── btc.png
 │   ├── eth.png
 │   └── ...                
