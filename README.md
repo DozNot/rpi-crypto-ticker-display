@@ -203,12 +203,12 @@ rpi-crypto-ticker-display/
 ├── config.example.json     # Template: copy to config.json and edit
 ├── LICENSE                 # Project license
 ├── requirements.txt        # Python dependencies
-├── assets/                 # Images/GIFs used in README
-│   ├── demo.gif            # Demo animation
+├── assets/                 # Images used in README
+│   ├── demo.png            # Demo screenshot
 │   ├── btc-qr.png          # BTC QR
 │   ├── xmr-qr.png          # XMR QR
 │   └── ...                 
-├── logos/                  # Crypto logo images
+├── logos/                  # Crypto logos images
 │   ├── btc.png
 │   ├── eth.png
 │   └── ...                
